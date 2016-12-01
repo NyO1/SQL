@@ -1,4 +1,4 @@
-﻿CREATE TABLE [dbo].[book] (
+﻿CREATE TABLE [dbo].[Book] (
   [Id] INT IDENTITY (1,1) NOT NULL,
   [AuthorId] INT NOT NULL,
   [Title] NVARCHAR (200) NULL,
